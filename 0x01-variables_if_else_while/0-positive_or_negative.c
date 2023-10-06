@@ -3,10 +3,12 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/** betty style doc for function main goes there 
-* main : entry point
-* description : this a function that prints numbers
-*/
+/**
+ * main - Entry point of the program
+ * Description: This function prints a specific string using puts
+ * Return: Always 0
+ */
+
 int main(void)
 {
 int n;
