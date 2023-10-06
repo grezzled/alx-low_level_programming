@@ -3,7 +3,10 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/** betty style doc for function main goes there 
+* main : entry point
+* description : this a function that prints numbers
+*/
 int main(void)
 {
 int n;
