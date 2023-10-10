@@ -19,8 +19,8 @@ putchar((p / 10) + '0');
 putchar((p % 10) + '0');
 if (j < 9)
 {
-putchar(' ');
 putchar(',');
+putchar(' ');
 }
 }
 putchar('\n');
