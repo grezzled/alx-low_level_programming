@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * print_last_digit -  Prints last digit of a number.
- * @n: number to  check.
+ * jack_bauer -  Prints last digit of a number.
  * Return: number
  */
 void jack_bauer(void)
