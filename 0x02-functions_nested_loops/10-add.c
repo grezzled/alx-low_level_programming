@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_table -  Prints times table.
+ * add -  add two numbers.
  * Return: number
  */
 int add(int a, int b)
