@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -6,13 +5,12 @@
  * Description: This function prints _putchar
  * Return: Always 0
  */
-int print_alphabet(void)
+void print_alphabet(void)
 {
 char a;
 for (a = 'a'; a <= 'z'; a++)
 {
-    _putchar(a);
+_putchar(a);
 }
 _putchar('\n');
-return (0);
 }
