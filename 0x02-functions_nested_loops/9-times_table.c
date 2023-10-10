@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * jack_bauer -  Prints last digit of a number.
+ * times_table -  Prints times table.
  * Return: number
  */
 void times_table(void)
