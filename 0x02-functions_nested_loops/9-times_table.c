@@ -14,7 +14,7 @@ for (j = 0; j <= 9; j++)
 int p = i * j;
 if (p <= 9)
 putchar(' ');
-else
+else if ( p>9 )
 putchar((p / 10) + '0');
 putchar((p % 10) + '0');
 if (j < 9)
