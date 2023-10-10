@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
- * add -  add two numbers.
- * Return: number
- * @a: first number
- * @b: second number
+ * add - count to 98
+ * @n: starting number
  */
 void print_to_98(int n)
 {
