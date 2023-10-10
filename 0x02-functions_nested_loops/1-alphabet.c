@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point of the program
- * Description: This function prints _putchar
+ * print_alphabet: This function prints _putchar
  * Return: Always 0
  */
 void print_alphabet(void)
