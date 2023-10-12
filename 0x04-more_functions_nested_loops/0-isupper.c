@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _isupper - A function that returns the upper case string
  * @c: character to check

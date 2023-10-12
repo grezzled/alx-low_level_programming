@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _isupper - A function that returns if it's digit
  * @c: character to check

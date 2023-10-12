@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _isupper - multiplies two integers.
  * @a: 1st number
