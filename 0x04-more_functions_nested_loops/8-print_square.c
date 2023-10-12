@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_square	-	multiplies two integers.
- * @n: is the number of times the character	# should be printed
+ * @size: is the number of times the character	# should be printed
  */
 void print_square(int size)
 {
