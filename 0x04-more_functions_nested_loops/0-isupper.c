@@ -5,7 +5,7 @@
  * @c: character to check
  * Return:  1 | 0
  */
-void _isupper(int c)
+int _isupper(int c)
 {
 if (c >= 'A' && c <= 'Z')
 {
