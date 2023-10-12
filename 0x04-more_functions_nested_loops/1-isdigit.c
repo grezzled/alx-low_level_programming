@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isupper - A function that returns if it's digit
+ * _isdigit - A function that returns if it's digit
  * @c: character to check
  * Return:  1 | 0
  */
