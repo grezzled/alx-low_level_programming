@@ -3,7 +3,7 @@
  * print_square	-	multiplies two integers.
  * @n: is the number of times the character	# should be printed
  */
-void print_square(int n)
+void print_square(int size)
 {
 	int	row, column;
 
