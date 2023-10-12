@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isupper - multiplies two integers.
+ * mul - multiplies two integers.
  * @a: 1st number
  * @b: 2nd number
  * Return:  1st number * 2nd number
